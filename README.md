@@ -74,4 +74,4 @@ Email: shivamsoni9235@gmail.com
 
 This project is licensed under the MIT License - you are free to use, modify, and distribute it, provided proper credit is given.
 
-(https://github.com/shivamsoni8192/healthcare_project_sql_developer_intern_task4_day4)
+https://github.com/shivamsoni8192/healthcare_project_sql-developer-intern_task4_day4
